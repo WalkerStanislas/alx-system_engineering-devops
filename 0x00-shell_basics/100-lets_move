@@ -1,2 +1,2 @@
 0x00-shell_basics
-mv [[:upper:]]*
+mv [[:upper:]]* /tmp/u
