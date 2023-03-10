@@ -1,2 +1,2 @@
-"a script that prints the effective username of the current user"
-"Who am I"
+" My name is Betty"
+"question0"
